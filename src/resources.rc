@@ -1,0 +1,4 @@
+#include "resource.h"
+
+// Embed the ProcExp driver
+IDR_PROCEXP_SYS RCDATA "../procexp.sys"
